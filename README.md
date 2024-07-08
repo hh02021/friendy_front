@@ -201,98 +201,15 @@ git add,commit,push 취소<br>
 
 # 🙌 개발 환경
 
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/React.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/React.png" width="40px" /> React
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/js.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/js.png" width="40px" /> JS
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/html.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/html.png" width="40px" /> HTML
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/css.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/css.png" width="40px" /> CSS
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/Sock_JS.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/Sock_JS.png" width="40px" /> Sock JS
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/java.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/java.png" width="40px" /> JAVA
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/Apache_Tomcat.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/Apache_Tomcat.png" width="40px" /> Apache Tomcat
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/SpringSecurity.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/SpringSecurity.png" width="40px" /> SpringSecurity
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/SpringBoot.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/SpringBoot.png" width="40px" /> SpringBoot
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/oracleCloud.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/oracleCloud.png" width="40px" /> OracleCloud
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/Postman.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/Postman.png" width="40px" /> Postman
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/springBoot_JPA.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/springBoot_JPA.png" width="40px" /> SpringBoot JPA
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/visualStudioCode.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/visualStudioCode.png" width="40px" /> VisualStudioCode
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/intellij.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/intellij.png" width="40px" /> Intellij
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/notion.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/notion.png" width="40px" /> Notion
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/Sourcetree.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/Sourcetree.png" width="40px" /> Sourcetree
-
-</aside>
-
-<aside>
-<img src="Friendy%200464131a3b134e44ae320d68d9764cad/GitHub.png" alt="Friendy%200464131a3b134e44ae320d68d9764cad/GitHub.png" width="40px" /> GitHub
-
-</aside>
+![스크린샷 2024-07-08 165201](https://github.com/hh02021/friendy/assets/158557360/9aad2f8e-1997-4941-9164-7d49ca6b246f)
 
 # 🙌 개발 기간
 
-![KakaoTalk_20240626_114057956.png](Friendy%200464131a3b134e44ae320d68d9764cad/KakaoTalk_20240626_114057956.png)
+![friendy 개발일정](https://github.com/hh02021/friendy/assets/158557360/f17c22f9-f82d-40ab-8d72-d5901971ca57)
 
 # 🐱 데이터 베이스 - ERD
 
-![Untitled](Friendy%200464131a3b134e44ae320d68d9764cad/Untitled.png)
+![friendy 데이터베이스](https://github.com/hh02021/friendy/assets/158557360/f6c3a44a-0f8c-4121-9cb9-d227bb722aa7)
 
 http://erdcloud.com/d/YMQY2jjSHqhQgEYFj
 
@@ -300,15 +217,15 @@ http://erdcloud.com/d/YMQY2jjSHqhQgEYFj
 
 **사용자**
 
-![userFlow.drawio.png](Friendy%200464131a3b134e44ae320d68d9764cad/userFlow.drawio.png)
+![friendy 사용자 플로우차트](https://github.com/hh02021/friendy/assets/158557360/5f7c0880-0b31-40be-8792-36013068936f)
 
 **관리자** 
 
-![adminFlow.drawio.png](Friendy%200464131a3b134e44ae320d68d9764cad/adminFlow.drawio.png)
+![friendy 관리자 플로우차트png](https://github.com/hh02021/friendy/assets/158557360/fe30c871-2961-4c28-abf8-9df6cd432395)
 
 # 🖼️ 레이아웃
 
-![friend레이아웃.png](Friendy%200464131a3b134e44ae320d68d9764cad/friend%25EB%25A0%2588%25EC%259D%25B4%25EC%2595%2584%25EC%259B%2583.png)
+![friendy 레이아웃png](https://github.com/hh02021/friendy/assets/158557360/6c3e0972-6761-440b-9a14-9dd1a7827640)
 
 # 🪂 나의 역할
 
